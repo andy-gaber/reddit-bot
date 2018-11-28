@@ -1,3 +1,3 @@
 # reddit-bot-state-facts-
 
-A bot that searches for US states that may be present in users comments, then replies with a fact of that particular state.
+A bot that searches users comments for the presence of any US state, then replies with a fact of that particular state.
