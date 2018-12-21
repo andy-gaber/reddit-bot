@@ -5,9 +5,8 @@ import requests
 import praw
 from bs4 import BeautifulSoup
 
-SUBREDDIT = '<subreddit>'   # For Multiple Subreddits:
-                            # '<subreddit+subreddit+...+subreddit>'
-MINUTES_TO_SLEEP = 5
+SUBREDDIT = 'videos'   # For Multiple Subreddits: 'subreddit+subreddit+...+subreddit'
+MINUTES_TO_SLEEP = 30
 
 r = requests.get('https://www.50states.com/facts/')
 
