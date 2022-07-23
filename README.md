@@ -1,4 +1,4 @@
-# reddit-bot-state-facts-
+# reddit-bot
 
 This program utilizes Python's HTML parser Beaustiful Soup, and Reddit's Python Reddit API Wrapper (PRAW).
 
